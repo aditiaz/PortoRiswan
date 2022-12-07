@@ -48,21 +48,7 @@ const Slug: NextPage<SlugProps> = ({ data, content }) => {
             ],
           }}
         />
-        <ArticleJsonLd
-          title={data.title}
-          images={[
-            "https://ik.imagekit.io/ils26chuk/og-image.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668654017675",
-          ]}
-          datePublished={data.created}
-          authorName={[
-            {
-              name: "Mohammad Riswanto",
-            },
-          ]}
-          publisherName="Mohammad Riswanto"
-          description={data.title}
-          isAccessibleForFree={true}
-        />
+
         <article className="mt-1 md:mt-10">
           <h1 className="text-3xl font-bold tracking-tight md:text-4xl text-center">
             {data.title}
@@ -79,12 +65,7 @@ const Slug: NextPage<SlugProps> = ({ data, content }) => {
             </div>
             <section className="flex items-center gap-1 mt-7">
               {/* <h2 className='dynamic-font'>Share</h2> */}
-              <FacebookShareButton
-                quote={"next-share is a social share buttons for your next React apps."}
-                hashtag={"#nextshare"}
-              >
-                <FacebookIcon size={25} round />
-              </FacebookShareButton>
+
               <LinkedinShareButton url={``}>
                 <LinkedinIcon size={25} round />
               </LinkedinShareButton>
