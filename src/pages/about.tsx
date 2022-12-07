@@ -38,7 +38,7 @@ const About: NextPage = () => {
           <section className="w-full md:w-9/12">
             <h1 className="text-3xl font-bold">About me</h1>
             <p className="mb-5">
-              Hey everyone! My name is <b>Mohammad Riswanto</b> and I'm from{" "}
+              Hey everyone! My name is <b>Mohammad Riswanto</b> and I&apos;m from{" "}
               <a
                 className="text-sky-600 dark:text-sky-400 underline"
                 href="https://en.wikipedia.org/wiki/Tegal"
@@ -53,8 +53,8 @@ const About: NextPage = () => {
             </p>
             <blockquote>
               <em>
-                " If the web can be evolved to include the missing APIs and have better performance,
-                [developers] won’t need to go beyond the web."
+                &quot; If the web can be evolved to include the missing APIs and have better
+                performance, [developers] won’t need to go beyond the web &quot;
               </em>{" "}
               <br /> <br />— Brendan Eich (Creator of Javascript)
             </blockquote>
@@ -69,13 +69,13 @@ const About: NextPage = () => {
                 {" "}
                 Alttera Academy
               </a>{" "}
-              bootcamp for 3 months. Right now I'm focusing on Frontend Developer field.I had
+              bootcamp for 3 months. Right now I&apos;m focusing on Frontend Developer field.I had
               several clients before both from private componies and goverments.
             </p>
             <br />
             <p>
               I am quite proficient in several technologies to build an interactive web app, such as
-              React JS, Next JS, Vue JS,Glutre and React Native.I'm open to work as{" "}
+              React JS, Next JS, Vue JS,Glutre and React Native.I&apos;m open to work as{" "}
               <b>Frontend Development</b>.
             </p>
           </section>
