@@ -59,8 +59,9 @@ const About: NextPage = () => {
               <br /> <br />— Brendan Eich (Creator of Javascript)
             </blockquote>
             <p>
-              I was working as Design Grafis for one year before I decide to dive deep into Web
-              App,Mobile App and UI/UX and I was in
+              I was graduated from SMKN 1 Bojonggede in 2015,which my major was
+              Mulitimedia,specifically I studied Design Graffis,Content Creator and Photo
+              Graffy.Then I managed to swicth my career by being in
               <a
                 href="https://www.alterra.id/"
                 className="font-semibold text-sky-600 dark:text-sky-400 underline"
@@ -68,15 +69,8 @@ const About: NextPage = () => {
                 {" "}
                 Alttera Academy
               </a>{" "}
-              Bootcamp for a month. now I'm an active studen on 7th semester in
-              <a
-                href="http://www.stiembi.ac.id/"
-                className="font-semibold text-sky-600 dark:text-sky-400 underline"
-              >
-                {" "}
-                STIE MBI Depok
-              </a>{" "}
-              as Junior Web Programmer.
+              bootcamp for 3 months. Right now I'm focusing on Frontend Developer field.I had
+              several clients before both from private componies and goverments.
             </p>
             <br />
             <p>
