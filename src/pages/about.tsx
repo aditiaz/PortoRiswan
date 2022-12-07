@@ -75,7 +75,7 @@ const About: NextPage = () => {
             <br />
             <p>
               I am quite proficient in several technologies to build an interactive web app, such as
-              React JS, Next JS, Vue JS,Glutre and Reac Native.I&apos;m open to work as{" "}
+              React JS, Next JS, Vue JS,Glutre and React Native.I&apos;m open to work as{" "}
               <b>Frontend Development</b>.
             </p>
           </section>
