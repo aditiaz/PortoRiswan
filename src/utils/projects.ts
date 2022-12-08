@@ -10,7 +10,7 @@ Projects = [
     desc: "This is my Personal website who I am used to showcase my Blog, about personal dan All of Project i created. I build it with Next Typescript, starter blog with MDX and styling with Tailwind CSS",
     link: {
       demo: "https://github.com/Mohriswan12/Folks-Movie",
-      github: "https://github.com/Mohriswan12/Folks-Movie",,
+      github: "https://github.com/Mohriswan12/Folks-Movie",
     },
   },
   {
