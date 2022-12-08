@@ -31,7 +31,7 @@ const Portfolio: NextPage = () => {
 
             images: [
               {
-                url: "https://ik.imagekit.io/ils26chuk/og-image.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668654017675",
+                url: "https://ik.imagekit.io/riswan/myBanner.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670491927708",
                 width: 1200,
                 height: 630,
               },
